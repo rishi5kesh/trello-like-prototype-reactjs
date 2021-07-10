@@ -1,0 +1,32 @@
+.trello-list {
+    min-width: 200px;
+    height: 520px;
+    margin: 10px ;
+}
+
+.add-icon {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    position: relative;
+    align-self: center;
+}
+
+.lists {
+    overflow-x: auto;
+}
+
+.card-list {
+    overflow-y: auto;
+    overflow-x: hidden;
+    min-height: 400px !important;
+}
+
+.desc-text {
+    width: 90%;
+    height: 100px;
+}
+
+.title-text {
+    width: 90%;
+}

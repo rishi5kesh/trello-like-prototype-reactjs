@@ -1,0 +1,34 @@
+.delete-icon {
+    width: 16px;
+    height: 16px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.divider {
+    margin-top: 4px !important;
+    height: 1px;
+    background-color: black;
+}
+
+.icon-action {
+    float: right !important;
+    margin-right: 10px;
+}
+
+.lists {
+    margin-top: 50px;
+}
+
+dd {
+    font-size: smaller;
+}
+
+dt {
+    font-size: small;
+}
+
+.input-section {
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
